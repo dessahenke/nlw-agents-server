@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# nlw-agents-server
-=======
-# NLW Agents
+# NLW Agents Server
 
 Projeto desenvolvido durante um evento da **Rocketseat** utilizando tecnologias modernas para criação de uma API robusta e eficiente.
 
@@ -101,4 +98,3 @@ A API estará disponível em `http://localhost:3333`
 ---
 
 Desenvolvido com ❤️ durante o NLW da Rocketseat
->>>>>>> 50e59aa (docs: add readme)
