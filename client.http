@@ -41,5 +41,5 @@ POST {{baseUrl}}/rooms/{{roomId}}/questions
 Content-Type: application/json
 
 {
-  "question": "Uma pergunta bonita?"
+  "question": "Vinho faz bem?"
 }
